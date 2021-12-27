@@ -25,8 +25,10 @@
 5. The volunteer can join any of the programs listed just by clicking the program details and clicking join
 
 ## Screen Navigation (routing) and Components (presentational and container) Implementation (Diagram)
+![diagram](https://user-images.githubusercontent.com/69450683/147449281-4c6d79ad-d4dd-48a2-b823-10c41aca5521.PNG)
 
 ## Sequence Diagram
+![sequence](https://user-images.githubusercontent.com/69450683/147449293-17953c02-9064-4ff6-8cff-fedf7fd36403.PNG)
 
 ## References
 - Cambridge Dictionary. (2021, December 15). volunteer. @CambridgeWords. https://dictionary.cambridge.org/dictionary/english/volunteer
