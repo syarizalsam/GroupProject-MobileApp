@@ -31,7 +31,7 @@
 
 ## Project system screenshot.
 
-# Sign Up - Page for user to sign up.If this is the first time the user has used the apllication, they must register.
+### Sign Up - Page for user to sign up.If this is the first time the user has used the apllication, they must register.
 ![Sign up](https://user-images.githubusercontent.com/74361901/150689907-2bbab963-f0c3-45c4-9bb9-a62edc3e5cf8.jpg)
 
 
