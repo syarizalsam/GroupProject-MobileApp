@@ -30,7 +30,8 @@
 ![diagram](https://user-images.githubusercontent.com/69450683/147449281-4c6d79ad-d4dd-48a2-b823-10c41aca5521.PNG)
 
 ## Project system screenshot.
-![photo6300866892277067463](https://user-images.githubusercontent.com/74361901/150689683-210294fc-b239-41f1-8b0d-efb3d8530579.jpg)
+![photo6300866892277067461](https://user-images.githubusercontent.com/74361901/150689769-5d5986d0-7c3e-44c1-96b7-48f9ac9c56f9.jpg)
+
 
 ![photo6300866892277067462](https://user-images.githubusercontent.com/74361901/150689679-635bf738-180f-4ebf-a0c9-cd2b2f289d6a.jpg)
 
