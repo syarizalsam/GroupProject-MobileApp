@@ -30,9 +30,9 @@
 ## Sequence Diagram
 ![sequence](https://user-images.githubusercontent.com/69450683/147449293-17953c02-9064-4ff6-8cff-fedf7fd36403.PNG)
 ## Challenges/Diffuculties to develop the application.
-1.We having trouble with version react navigation because each one has its own set of commands.
-2.Lack of source to refer lead us to unable develop the expected function.
-3.When it comes to compiling everything into one file and navigating each interface, we having problem.
+1.We having trouble with version react navigation because each one has its own set of commands
+2.Lack of source to refer lead us to unable develop the expected function
+3.When it comes to compiling everything into one file and navigating each interface, we having problem
 ## References
 - Cambridge Dictionary. (2021, December 15). volunteer. @CambridgeWords. https://dictionary.cambridge.org/dictionary/english/volunteer
 - Manual on the measurement of volunteer work STATISTICS Department of Statistics. (2011). https://www.ilo.org/wcmsp5/groups/public/---dgreports/--- stat/documents/publication/wcms_162119.pdf
