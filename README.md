@@ -29,6 +29,9 @@
 ## Screen Navigation (routing) and Components (presentational and container) Implementation (Diagram)
 ![diagram](https://user-images.githubusercontent.com/69450683/147449281-4c6d79ad-d4dd-48a2-b823-10c41aca5521.PNG)
 
+## Project system screenshot & explaination.
+![photo6300866892277067463](https://user-images.githubusercontent.com/74361901/150689512-68a25c84-b145-4c43-8b98-fb759034657f.jpg)
+
 ## Sequence Diagram
 ![sequence](https://user-images.githubusercontent.com/69450683/147449293-17953c02-9064-4ff6-8cff-fedf7fd36403.PNG)
 ## Challenges/Diffuculties to develop the application.
