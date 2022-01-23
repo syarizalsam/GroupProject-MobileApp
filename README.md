@@ -29,8 +29,21 @@
 ## Screen Navigation (routing) and Components (presentational and container) Implementation (Diagram)
 ![diagram](https://user-images.githubusercontent.com/69450683/147449281-4c6d79ad-d4dd-48a2-b823-10c41aca5521.PNG)
 
-## Project system screenshot & explaination.
+## Project system screenshot.
+![photo6300866892277067463](https://user-images.githubusercontent.com/74361901/150689683-210294fc-b239-41f1-8b0d-efb3d8530579.jpg)
+
+![photo6300866892277067462](https://user-images.githubusercontent.com/74361901/150689679-635bf738-180f-4ebf-a0c9-cd2b2f289d6a.jpg)
+
+![photo6300866892277067456](https://user-images.githubusercontent.com/74361901/150689669-1d9fbc5b-1e45-4caf-91b8-1750dc5ac7fc.jpg)
+
 ![photo6300866892277067463](https://user-images.githubusercontent.com/74361901/150689512-68a25c84-b145-4c43-8b98-fb759034657f.jpg)
+
+![photo6300866892277067460](https://user-images.githubusercontent.com/74361901/150689696-18e88889-7cd6-4368-a413-81d864e828ce.jpg)
+![photo6300866892277067453](https://user-images.githubusercontent.com/74361901/150689699-3afaede5-889d-4bd9-83cc-9b727a3ef256.jpg)
+![photo6300866892277067457](https://user-images.githubusercontent.com/74361901/150689701-f0c1aa53-2c42-407c-ad71-84df52387031.jpg)
+![photo6300866892277067459](https://user-images.githubusercontent.com/74361901/150689703-c3566fad-b18b-4576-873d-bd4d8c84e05c.jpg)
+![photo6300866892277067455](https://user-images.githubusercontent.com/74361901/150689705-7dbbaf87-a00f-4d49-ae52-31231e41928b.jpg)
+
 
 ## Sequence Diagram
 ![sequence](https://user-images.githubusercontent.com/69450683/147449293-17953c02-9064-4ff6-8cff-fedf7fd36403.PNG)
