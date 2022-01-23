@@ -33,7 +33,22 @@
 
 ### Sign Up - Page for user to sign up.If this is the first time the user has used the apllication, they must register.
 ![Sign up](https://user-images.githubusercontent.com/74361901/150689907-2bbab963-f0c3-45c4-9bb9-a62edc3e5cf8.jpg)
-
+### Sign In - Page for admin to sign in.To login in to the application, administrators have their own email address.
+![Sign In Admin](https://user-images.githubusercontent.com/74361901/150690163-08e21a68-96fb-4c0a-8b66-cda9b7fa47dd.jpg)
+### Sign In - Page for user to sign in.To login in to the application.User need to provide a valid email and password upon the login to enable the system verifying their account.
+![Sign in](https://user-images.githubusercontent.com/74361901/150690201-44b331bc-cb9f-4d03-93dd-fdd8ff4f6934.jpg)
+### Dashboard User - User would go to this page to look at the dashboard and select any button to look at.
+![dashboard](https://user-images.githubusercontent.com/74361901/150690317-81e5bace-6b98-4cc5-93d7-cd85e9b13855.jpg)
+### Profile - Page for user to update profile.If this is the first time a user logs in, they must update their profile.
+![Profile](https://user-images.githubusercontent.com/74361901/150690267-b98ee8db-c159-4101-8c20-90d763857dda.jpg)
+### Join Program - Page for user to choose program.The user can join the programme at any time by clicking the join button.
+![Join program](https://user-images.githubusercontent.com/74361901/150690308-5a0dc8d3-2738-4607-ba33-62002809f721.jpg)
+### List Organisation - Page for user know about organisation.Every organisation can be viewed by the user.
+![List organisation](https://user-images.githubusercontent.com/74361901/150690435-223e16c6-b81e-4ea8-81a0-210bb1f16165.jpg)
+### Dashboard Admin - page where the administrator may add a programme and view the participants
+![Dashboard admin](https://user-images.githubusercontent.com/74361901/150690493-d45f654b-c4f1-4cc7-b57f-4cd224439afa.jpg)
+### Add Program (Admin) - page for administrators to add programmes
+![add program](https://user-images.githubusercontent.com/74361901/150690536-1d5f3450-bb92-4e4f-9fd4-fd4fba99fbbd.jpg)
 
 ## Sequence Diagram
 ![sequence](https://user-images.githubusercontent.com/69450683/147449293-17953c02-9064-4ff6-8cff-fedf7fd36403.PNG)
