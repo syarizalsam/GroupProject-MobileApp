@@ -92,16 +92,16 @@ function MyStack() {
          { title: 'Participant Request' }
        }
       />
-      <Stack.Screen 
+      {/* <Stack.Screen 
        name="PList" 
        component={PList} 
        options={
          { title: 'Participant List' }
        }
-      />
+      /> */}
       <Stack.Screen 
-       name="listprog" 
-       component={listprog} 
+       name="PList" 
+       component={PList} 
        options={
          { title: 'List of Programs' }
        }
