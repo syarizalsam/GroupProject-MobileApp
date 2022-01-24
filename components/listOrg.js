@@ -93,7 +93,7 @@ export default function ListOrg() {
   const styles = StyleSheet.create({
     container: {
       flex: 1,
-      backgroundColor: '#fff',
+      backgroundColor: '#EEEEFF',
       alignItems: 'center',
       justifyContent: 'center',
     },
