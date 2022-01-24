@@ -40,13 +40,13 @@
 ### User Dashboard - This is the main page for the user. From here, the user can see list of programs, list of organizations, and user profile.
 ![dashboard](https://user-images.githubusercontent.com/69450683/150737957-c49c477a-be3f-498d-9483-2af223b16704.PNG)
 ### User Profile - Page for user to view their profile. If this is the first time a user logs in, they must update their profile.
-![Profile](https://user-images.githubusercontent.com/74361901/150690267-b98ee8db-c159-4101-8c20-90d763857dda.jpg)
+![userprofile](https://user-images.githubusercontent.com/69450683/150738148-1f98303d-1e75-4aa7-927f-c4228a66bf40.PNG)
 ### Update Profile - Page for user to update profile. If a person wants to edit something in their profile, they can do so.
 ![Screenshot 2022-01-24 125425](https://user-images.githubusercontent.com/74361901/150724397-3a2410e2-3a39-4195-8738-0ffca3604114.jpg)
 ### Join Program - Page for user to see a list of programs. The user can join any program at any time by clicking the join button.
 ![joinprogram](https://user-images.githubusercontent.com/69450683/150733197-63742493-3aec-4e97-939d-f6e4baf6ec3e.PNG)
 ### List of Organisations - Page for user to get to know more about a certain organization.
-![List organisation](https://user-images.githubusercontent.com/74361901/150690435-223e16c6-b81e-4ea8-81a0-210bb1f16165.jpg)
+![listOrg](https://user-images.githubusercontent.com/69450683/150738130-5b11db52-6e54-47ae-844a-432256e07bf6.PNG)
 ### Admin Dashboard - This is the main page for the admin. From here, the admin can add a program and see participant list.
 ![Dashboard admin](https://user-images.githubusercontent.com/74361901/150690493-d45f654b-c4f1-4cc7-b57f-4cd224439afa.jpg)
 ### Add Program (Admin) - Page for administrators to add a program.
