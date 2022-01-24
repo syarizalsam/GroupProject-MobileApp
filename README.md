@@ -44,7 +44,7 @@
 ### Update Profile - Page for user to update profile.If a person wants to edit something in their profile, they can do so.
 ![Screenshot 2022-01-24 125425](https://user-images.githubusercontent.com/74361901/150724397-3a2410e2-3a39-4195-8738-0ffca3604114.jpg)
 ### Join Program - Page for user to choose program.The user can join the programme at any time by clicking the join button.
-![Screenshot 2022-01-24 132801](https://user-images.githubusercontent.com/74361901/150727016-c2e0f254-00c1-4241-bde3-a7e4e2300e58.jpg)
+![Screenshot 2022-01-24 140831](https://user-images.githubusercontent.com/74361901/150730757-14dfd909-168e-43b1-899e-7d76b3cc0ad5.jpg)
 ### List Organisation - Page for user know about organisation.Every organisation can be viewed by the user.
 ![List organisation](https://user-images.githubusercontent.com/74361901/150690435-223e16c6-b81e-4ea8-81a0-210bb1f16165.jpg)
 ### Dashboard Admin - page where the administrator may add a programme and view the participants
