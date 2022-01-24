@@ -48,9 +48,9 @@
 ### List of Organisations - Page for user to get to know more about a certain organization.
 ![listOrg](https://user-images.githubusercontent.com/69450683/150738130-5b11db52-6e54-47ae-844a-432256e07bf6.PNG)
 ### Admin Dashboard - This is the main page for the admin. From here, the admin can add a program and see participant list.
-![Dashboard admin](https://user-images.githubusercontent.com/74361901/150690493-d45f654b-c4f1-4cc7-b57f-4cd224439afa.jpg)
+![dashboard(admin)](https://user-images.githubusercontent.com/69450683/150738744-923f2978-b6f1-4e36-a565-9ca1ec01dbe1.PNG)
 ### Add Program (Admin) - Page for administrators to add a program.
-![add program](https://user-images.githubusercontent.com/74361901/150690536-1d5f3450-bb92-4e4f-9fd4-fd4fba99fbbd.jpg)
+![addprogram](https://user-images.githubusercontent.com/69450683/150738757-4f72ace1-1761-43c3-839e-d8e7ded100b7.PNG)
 ### List of Program (Admin) - Page for admin to view a list of programs that have participant(s).
 ![ListOfPrograms](https://user-images.githubusercontent.com/69450683/150736233-4a218cca-5f15-452b-a557-f7c49d2f8010.PNG)
 ### Participant List (Admin) - Page for admin to view a list of partcipants for a specific program.
