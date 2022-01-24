@@ -48,7 +48,7 @@ const JoinProgram=()=>{
       <Text >{programName}</Text>
       <Text >{programTime}</Text>
       <View style={styles.joinButton}>
-        <Button onPress={()=> addParticipant(programID, programName, myID, myEmail) } title="Join"/>
+        <Button onPress={()=> addParticipant(programID, programName, myID, myEmail) } title="Join" color={"#3740FE"}/>
       </View>
       
     </View>
