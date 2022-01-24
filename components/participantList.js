@@ -1,52 +1,40 @@
 'use strict';
 import React, {useState,useEffect, Component} from 'react';
-import {StyleSheet, Text, Container, Content, View,FlatList, Button} from 'react-native';
-import { useNavigation } from '@react-navigation/native';
+import {StyleSheet, Text, Container, Content, View,FlatList} from 'react-native';
 import firebase from '../database/firebase';
 
-const getlist=()=>{
+const image = { uri: "https://reactjs.org/logo-og.png" };
+const ParticipantList=({navigation, route})=>{
   const [myList,setMylist]=useState([])
-  const navigation = useNavigation();
 
   useEffect(()=>{
-    loadParticipantList()
-  },[])
-
-  const loadParticipantList=()=>{
-    var participantRef = firebase.database().ref('/programs');
+    var participantRef = firebase.database().ref('/programs' + route.params.programName);
     participantRef.on('value', function(snapshot){
  
         let data = snapshot.val();
         let firebaseData = Object.values(data);
          setMylist(firebaseData)
-       
-   
   })
-  }
+  },[])
 
-  const PageDirect=(programName)=>{
-    navigation.navigate({name: "Participant List", params: {programName : programName}})
-    
-  }
+  
 
-  const Item = ({ programDate,programName ,programTime, programID}) => (
+  const Item = ({participantID,participantEmail}) => (
     <View style={styles.container}>
-      <Text >{programDate}</Text>
-      <Text >{programName}</Text>
-      <Text >{programTime}</Text>
-      <Button onPress={()=> PageDirect(programName)} title="Participant List"/>
-      <Text >-------------------</Text>
-      
+      <Text style = {styles.box}>
+              <div>Participant ID: {participantID}</div>
+              <div>Participan name: {participantEmail}</div>
+              <br></br>
+      </Text>
     </View>
   );
   
 
     const renderItem = ({ item }) => (
-      <Item programDate={item.programDate} 
-      programID={item.programID}
-      programName={item.programName}
-      programTime={item.programTime}/>
-      
+      <Item 
+      participantID={item.participantID}
+      participantEmail={item.participantEmail}
+      />
     );
   
  
@@ -56,7 +44,7 @@ const getlist=()=>{
         <FlatList
         data={myList}
         renderItem={renderItem}
-        keyExtractor={item => item.programDate}
+        keyExtractor={item => item.participantID}
       />
     </View>
   )
@@ -99,6 +87,14 @@ const styles = StyleSheet.create({
       fontSize: 18,
       fontColor : 'white'
   },
+  box: {
+    height: 80,
+    width: '100%',
+    alignItems:'center',
+    marginTop: 10,
+    marginBottom: 20,
+    backgroundColor: "#D433FF"
+  },
   });
 
-  export default getlist;
+  export default ParticipantList;

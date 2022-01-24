@@ -35,16 +35,6 @@ export default class Dashboard extends Component {
     >
     <Text
       style={styles.buttonStyle}
-      onPress={() => this.props.navigation.navigate('PList')}>
-      List of Programs
-      </Text>
-    </TouchableOpacity>
-
-    <TouchableOpacity 
-    style={styles.item}
-    >
-    <Text
-      style={styles.buttonStyle}
       onPress={() => this.props.navigation.navigate('JoinProgram')}>
       Join Program
       </Text>
