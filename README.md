@@ -6,7 +6,7 @@
 >3. Muhammad Amir Firdaus bin Zaidin (1716549)
 >4. Nurul Syahirah Syahmi Binti Mhd Azhar (1919070)
 
-## Project Tittle: I-Volunteer
+## Project Tittle: i-Volunteer
 
 ## Introduction of the Proposed Mobile Application
   According to the Cambridge Dictionary, the act of volunteering is defined as helping people willingly and without pay (Cambridge Dictionary, 2021). Under the International Labour Organisation (ILO), there are two types of volunteerism, formal and informal. Formal volunteering, also known as organization-based volunteering, is the act of volunteering with a formal establishment to a well-defined social structure, position, and function. Informal volunteering, often known as direct volunteering, is the act of volunteering that occurs outside of the jurisdiction of a structured group or charitable organisation (Manual on the measurement of volunteer work STATISTICS Department of Statistics, 2011.). Dating back to the 12th century, there were more than 500 hospitals in Britain being run by volunteers. The origins of coordinated volunteering as we know it now may be traced back to major conflicts and wars, when young people, particularly women, banded together to assist injured soldiers and gather supplies. Officially structured volunteering began in the nineteenth century, peaked in the early twentieth century, and certain groups are still functioning today (todd, 2019). Volunteering in Malaysia is also popular within the youth with the growth of Non-Governmental Organisations (NGOs) in this country. Mercy Malaysia, WWF, Global Peace Mission Malaysia, Malaysian Nature Society (MNS) are some examples of these organisations. 
