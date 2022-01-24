@@ -51,6 +51,8 @@
 ![Dashboard admin](https://user-images.githubusercontent.com/74361901/150690493-d45f654b-c4f1-4cc7-b57f-4cd224439afa.jpg)
 ### Add Program (Admin) - page for administrators to add programmes
 ![add program](https://user-images.githubusercontent.com/74361901/150690536-1d5f3450-bb92-4e4f-9fd4-fd4fba99fbbd.jpg)
+### Participant List (Admin) - page for administrators to view partcipant join
+![Screenshot 2022-01-24 131656](https://user-images.githubusercontent.com/74361901/150726381-ed17c3b6-3de7-4962-834f-be72d103916c.jpg)
 
 ## Sequence Diagram
 ![sequence](https://user-images.githubusercontent.com/69450683/147449293-17953c02-9064-4ff6-8cff-fedf7fd36403.PNG)
