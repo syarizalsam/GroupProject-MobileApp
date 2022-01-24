@@ -48,7 +48,7 @@ const JoinProgram=()=>{
       <Text >{programName}</Text>
       <Text >{programTime}</Text>
       <Button onPress={()=> addParticipant(programID, programName, myID, myEmail) } title="Join"/>
-      <Text >-------------------</Text>
+      
       
     </View>
   );
@@ -79,6 +79,17 @@ const styles = StyleSheet.create({
       container: {
         flex: 1,
         alignItems: 'center',
+        alignSelf:'center',
+  justifyContent:'center',
+  backgroundColor:'#fff',
+  width:'90%',
+  padding:20,
+  borderRadius:10,
+  shadowOpacity:80,
+  elevation:15,
+  marginTop:20,
+  marginBottom:20,
+  textAlign: 'center',
       },
       header: {
       marginTop: 60,
@@ -103,6 +114,7 @@ const styles = StyleSheet.create({
       width: '99%',
       marginTop: 10
   },
+  
 
   col1: {
       width: '40%', 
