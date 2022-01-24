@@ -39,8 +39,10 @@
 ![Sign in](https://user-images.githubusercontent.com/74361901/150690201-44b331bc-cb9f-4d03-93dd-fdd8ff4f6934.jpg)
 ### Dashboard User - User would go to this page to look at the dashboard and select any button to look at.
 ![dashboard](https://user-images.githubusercontent.com/74361901/150690317-81e5bace-6b98-4cc5-93d7-cd85e9b13855.jpg)
-### Profile - Page for user to update profile.If this is the first time a user logs in, they must update their profile.
+### Profile - Page for user to view profile.If this is the first time a user logs in, they must update their profile.
 ![Profile](https://user-images.githubusercontent.com/74361901/150690267-b98ee8db-c159-4101-8c20-90d763857dda.jpg)
+### Update Profile - Page for user to update profile.If a person wants to edit something in their profile, they can do so.
+![Screenshot 2022-01-24 125425](https://user-images.githubusercontent.com/74361901/150724397-3a2410e2-3a39-4195-8738-0ffca3604114.jpg)
 ### Join Program - Page for user to choose program.The user can join the programme at any time by clicking the join button.
 ![Join program](https://user-images.githubusercontent.com/74361901/150690308-5a0dc8d3-2738-4607-ba33-62002809f721.jpg)
 ### List Organisation - Page for user know about organisation.Every organisation can be viewed by the user.
