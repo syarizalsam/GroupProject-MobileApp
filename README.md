@@ -31,35 +31,38 @@
 
 ## Project system screenshot.
 
-### Sign Up - Page for user to sign up.If this is the first time the user has used the apllication, they must register.
+### Sign Up - Page for user to sign up. If this is the first time the user has used the apllication, they must register.
 ![Screenshot 2022-01-24 135557](https://user-images.githubusercontent.com/74361901/150729756-77a00dac-71a6-45e4-8454-36ee6d93f7aa.jpg)
-### Sign In - Page for admin to sign in.To login in to the application, administrators have their own email address.
-![Screenshot 2022-01-24 140012](https://user-images.githubusercontent.com/74361901/150729998-d82a8743-0535-45d2-a6af-08242754bdc7.jpg)
-### Sign In - Page for user to sign in.To login in to the application.User need to provide a valid email and password upon the login to enable the system verifying their account.
+### Sign In (User) - Page for user to sign in. User need to provide a valid email and password upon the login. It would proceedd to the user dashboard.
 ![Screenshot 2022-01-24 135627](https://user-images.githubusercontent.com/74361901/150729825-e2114bd6-ca91-4984-ad68-3e0cfe280598.jpg)
-### Dashboard User - User would go to this page to look at the dashboard and select any button to look at.
+### Sign In (Admin) - Page for admin to sign in. It would proceed to the admin dashboard.
+![Screenshot 2022-01-24 140012](https://user-images.githubusercontent.com/74361901/150729998-d82a8743-0535-45d2-a6af-08242754bdc7.jpg)
+### User Dashboard - This is the main page for the user. From here, the user can see list of programs, list of organizations, and user profile.
 ![dashboard](https://user-images.githubusercontent.com/74361901/150690317-81e5bace-6b98-4cc5-93d7-cd85e9b13855.jpg)
-### Profile - Page for user to view profile.If this is the first time a user logs in, they must update their profile.
+### User Profile - Page for user to view their profile. If this is the first time a user logs in, they must update their profile.
 ![Profile](https://user-images.githubusercontent.com/74361901/150690267-b98ee8db-c159-4101-8c20-90d763857dda.jpg)
-### Update Profile - Page for user to update profile.If a person wants to edit something in their profile, they can do so.
+### Update Profile - Page for user to update profile. If a person wants to edit something in their profile, they can do so.
 ![Screenshot 2022-01-24 125425](https://user-images.githubusercontent.com/74361901/150724397-3a2410e2-3a39-4195-8738-0ffca3604114.jpg)
-### Join Program - Page for user to choose program.The user can join the programme at any time by clicking the join button.
+### Join Program - Page for user to see a list of programs. The user can join any program at any time by clicking the join button.
 ![joinprogram](https://user-images.githubusercontent.com/69450683/150733197-63742493-3aec-4e97-939d-f6e4baf6ec3e.PNG)
-### List Organisation - Page for user know about organisation.Every organisation can be viewed by the user.
+### List of Organisations - Page for user to get to know more about a certain organization.
 ![List organisation](https://user-images.githubusercontent.com/74361901/150690435-223e16c6-b81e-4ea8-81a0-210bb1f16165.jpg)
-### Dashboard Admin - page where the administrator may add a programme and view the participants
+### Admin Dashboard - This is the main page for the admin. From here, the admin can add a program and see participant list.
 ![Dashboard admin](https://user-images.githubusercontent.com/74361901/150690493-d45f654b-c4f1-4cc7-b57f-4cd224439afa.jpg)
-### Add Program (Admin) - page for administrators to add programmes
+### Add Program (Admin) - Page for administrators to add a program.
 ![add program](https://user-images.githubusercontent.com/74361901/150690536-1d5f3450-bb92-4e4f-9fd4-fd4fba99fbbd.jpg)
-### Participant List (Admin) - page for administrators to view partcipant join
-![Screenshot 2022-01-24 131656](https://user-images.githubusercontent.com/74361901/150726381-ed17c3b6-3de7-4962-834f-be72d103916c.jpg)
+### List of Program (Admin) - Page for admin to view a list of programs that have participant(s).
+![ListOfPrograms](https://user-images.githubusercontent.com/69450683/150736233-4a218cca-5f15-452b-a557-f7c49d2f8010.PNG)
+### Participant List (Admin) - Page for admin to view a list of partcipants for a specific program.
+![ParticipantList](https://user-images.githubusercontent.com/69450683/150736017-8eb23262-f878-435d-a483-658841cdc511.PNG)
 
 ## Sequence Diagram
 ![sequence](https://user-images.githubusercontent.com/69450683/147449293-17953c02-9064-4ff6-8cff-fedf7fd36403.PNG)
 ## Challenges/Diffuculties to develop the application.
->1. We having trouble with version react navigation because each one has its own set of commands
->2. Lack of source to refer lead us to unable develop the expected function
->3. When it comes to compiling everything into one file and navigating each interface, we having problem
+>1. We had trouble with the version of react navigation because each of them have its own set of commands.
+>2. Lack of source to refer to make us unable to develop some expected functions.
+>3. We faced some difficulties when compiling everything into one file and navigating each interface.
+
 ## References
 - Cambridge Dictionary. (2021, December 15). volunteer. @CambridgeWords. https://dictionary.cambridge.org/dictionary/english/volunteer
 - Manual on the measurement of volunteer work STATISTICS Department of Statistics. (2011). https://www.ilo.org/wcmsp5/groups/public/---dgreports/--- stat/documents/publication/wcms_162119.pdf
