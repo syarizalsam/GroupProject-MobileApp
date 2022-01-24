@@ -65,7 +65,7 @@ const JoinProgram=()=>{
  
 
   return(
-    <View>
+    <View style={styles.container1}>
         <FlatList
         data={myList}
         renderItem={renderItem}
@@ -76,6 +76,11 @@ const JoinProgram=()=>{
 }
 
 const styles = StyleSheet.create({
+  container1: {
+    flex: 1,
+
+    backgroundColor: '#EEEEFF',
+},
       container: {
         flex: 1,
         alignItems: 'center',
