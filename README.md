@@ -32,11 +32,11 @@
 ## Project system screenshot.
 
 ### Sign Up - Page for user to sign up.If this is the first time the user has used the apllication, they must register.
-![Sign up](https://user-images.githubusercontent.com/74361901/150689907-2bbab963-f0c3-45c4-9bb9-a62edc3e5cf8.jpg)
+![Screenshot 2022-01-24 135557](https://user-images.githubusercontent.com/74361901/150729756-77a00dac-71a6-45e4-8454-36ee6d93f7aa.jpg)
 ### Sign In - Page for admin to sign in.To login in to the application, administrators have their own email address.
-![Sign In Admin](https://user-images.githubusercontent.com/74361901/150690163-08e21a68-96fb-4c0a-8b66-cda9b7fa47dd.jpg)
+![Screenshot 2022-01-24 140012](https://user-images.githubusercontent.com/74361901/150729998-d82a8743-0535-45d2-a6af-08242754bdc7.jpg)
 ### Sign In - Page for user to sign in.To login in to the application.User need to provide a valid email and password upon the login to enable the system verifying their account.
-![Sign in](https://user-images.githubusercontent.com/74361901/150690201-44b331bc-cb9f-4d03-93dd-fdd8ff4f6934.jpg)
+![Screenshot 2022-01-24 135627](https://user-images.githubusercontent.com/74361901/150729825-e2114bd6-ca91-4984-ad68-3e0cfe280598.jpg)
 ### Dashboard User - User would go to this page to look at the dashboard and select any button to look at.
 ![dashboard](https://user-images.githubusercontent.com/74361901/150690317-81e5bace-6b98-4cc5-93d7-cd85e9b13855.jpg)
 ### Profile - Page for user to view profile.If this is the first time a user logs in, they must update their profile.
