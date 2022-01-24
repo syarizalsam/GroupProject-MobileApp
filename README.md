@@ -38,7 +38,7 @@
 ### Sign In (Admin) - Page for admin to sign in. It would proceed to the admin dashboard.
 ![Screenshot 2022-01-24 140012](https://user-images.githubusercontent.com/74361901/150729998-d82a8743-0535-45d2-a6af-08242754bdc7.jpg)
 ### User Dashboard - This is the main page for the user. From here, the user can see list of programs, list of organizations, and user profile.
-![dashboard](https://user-images.githubusercontent.com/74361901/150690317-81e5bace-6b98-4cc5-93d7-cd85e9b13855.jpg)
+![dashboard](https://user-images.githubusercontent.com/69450683/150737957-c49c477a-be3f-498d-9483-2af223b16704.PNG)
 ### User Profile - Page for user to view their profile. If this is the first time a user logs in, they must update their profile.
 ![Profile](https://user-images.githubusercontent.com/74361901/150690267-b98ee8db-c159-4101-8c20-90d763857dda.jpg)
 ### Update Profile - Page for user to update profile. If a person wants to edit something in their profile, they can do so.
