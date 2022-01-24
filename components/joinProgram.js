@@ -47,8 +47,9 @@ const JoinProgram=()=>{
       <Text >{programDate}</Text>
       <Text >{programName}</Text>
       <Text >{programTime}</Text>
-      <Button onPress={()=> addParticipant(programID, programName, myID, myEmail) } title="Join"/>
-      
+      <View style={styles.joinButton}>
+        <Button onPress={()=> addParticipant(programID, programName, myID, myEmail) } title="Join"/>
+      </View>
       
     </View>
   );
@@ -129,6 +130,11 @@ const styles = StyleSheet.create({
       fontSize: 18,
       fontColor : 'white'
   },
+
+  joinButton: {
+    marginTop: 20,
+    width: '100%',
+  }
   });
 
   export default JoinProgram;
