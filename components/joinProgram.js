@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
   joinButton: {
     marginTop: 20,
     width: '100%',
-  }
+  },
   });
 
   export default JoinProgram;

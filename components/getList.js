@@ -34,9 +34,9 @@ const getlist=()=>{
       <Text >{programDate}</Text>
       <Text >{programName}</Text>
       <Text >{programTime}</Text>
-      <Button onPress={()=> PageDirect(programName)} title="Participant List"/>
-      <Text >-------------------</Text>
-      
+      <View style={styles.joinButton}>
+        <Button onPress={()=> PageDirect(programName)} title="Participant List" color={"#3740FE"}/>
+      </View>
     </View>
   );
   
@@ -52,7 +52,7 @@ const getlist=()=>{
  
 
   return(
-    <View>
+    <View style={styles.container1}>
         <FlatList
         data={myList}
         renderItem={renderItem}
@@ -63,9 +63,25 @@ const getlist=()=>{
 }
 
 const styles = StyleSheet.create({
+  container1: {
+    flex: 1,
+
+    backgroundColor: '#EEEEFF',
+},
       container: {
         flex: 1,
         alignItems: 'center',
+        alignSelf:'center',
+  justifyContent:'center',
+  backgroundColor:'#fff',
+  width:'90%',
+  padding:20,
+  borderRadius:10,
+  shadowOpacity:80,
+  elevation:15,
+  marginTop:20,
+  marginBottom:20,
+  textAlign: 'center'
       },
       header: {
       marginTop: 60,
@@ -98,6 +114,11 @@ const styles = StyleSheet.create({
       paddingRight: 10,
       fontSize: 18,
       fontColor : 'white'
+  },
+
+  joinButton: {
+    marginTop: 20,
+    width: '100%',
   },
   });
 

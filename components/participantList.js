@@ -22,8 +22,9 @@ const ParticipantList=({navigation, route})=>{
   const Item = ({participantID,participantEmail}) => (
     <View style={styles.container}>
       <Text style = {styles.box}>
-              <div>Participant ID: {participantID}</div>
-              <div>Participan name: {participantEmail}</div>
+              <div><b>Participant ID:</b> {participantID}</div>
+              <br></br>
+              <div><b>Participant name:</b> {participantEmail}</div>
               <br></br>
       </Text>
     </View>
@@ -40,7 +41,7 @@ const ParticipantList=({navigation, route})=>{
  
 
   return(
-    <View>
+    <View style={styles.container1}>
         <FlatList
         data={myList}
         renderItem={renderItem}
@@ -51,9 +52,26 @@ const ParticipantList=({navigation, route})=>{
 }
 
 const styles = StyleSheet.create({
+    container1: {
+        flex: 1,
+    
+        backgroundColor: '#EEEEFF',
+    },
       container: {
         flex: 1,
         alignItems: 'center',
+        alignSelf:'center',
+
+  justifyContent:'center',
+  backgroundColor:'#fff',
+  width:'90%',
+  padding:20,
+  borderRadius:10,
+  shadowOpacity:80,
+  elevation:15,
+  marginTop:20,
+  marginBottom:20,
+  textAlign: 'center'
       },
       header: {
       marginTop: 60,
@@ -93,7 +111,7 @@ const styles = StyleSheet.create({
     alignItems:'center',
     marginTop: 10,
     marginBottom: 20,
-    backgroundColor: "#D433FF"
+    
   },
   });
 
